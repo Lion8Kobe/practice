@@ -1,6 +1,6 @@
 #Andrei Dzmitruk
 
-![The photo I could find:)](/Users/lion/Documents/5EE07F36-C08E-4A74-BC24-4ECD104C5114_1_105_c.jpeg "Photo")
+![The photo I could find](https://user-images.githubusercontent.com/90222781/147697377-a7748e0e-2133-4db3-94d6-648219414b8d.jpeg)
 
 ##Contacts
 
