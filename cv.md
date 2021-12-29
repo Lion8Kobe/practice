@@ -4,11 +4,11 @@
 
 ##Contacts
 
-**Location:** Minsk, Belarus
-**Phone:** +375 33 38 36 888
-**Email:** Lion8888Kobe@gmail.com
-**GitHub:** [Lion8Kobe](https://github.com/Lion8Kobe "GitHub")
-**Discord:** Andrei Dzmitruk#5937 Andrei Dzmitruk (@Lion8Kobe)
+* **Location:** Minsk, Belarus
+* **Phone:** +375 33 38 36 888
+* **Email:** Lion8888Kobe@gmail.com
+* **GitHub:** [Lion8Kobe](https://github.com/Lion8Kobe "GitHub")
+* **Discord:** Andrei Dzmitruk#5937 Andrei Dzmitruk (@Lion8Kobe)
 
 ##About Me
 
@@ -34,5 +34,5 @@ International University MITSO
 
 ##Languages
 
-Russian - native speaker
-English - A2 *(B1 in process...)*
+* Russian - native speaker
+* English - A2 *(B1 in process...)*
