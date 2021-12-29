@@ -1,5 +1,3 @@
 # rsschool-cv
 
-Hello World
-
-[My GitHub](https://Lion8888Kobe.github.io/rsschool-cv/cv "GitHub")
+[My GitHub](https://Lion8Kobe.github.io/rsschool-cv/cv "GitHub")
