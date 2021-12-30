@@ -19,20 +19,33 @@
 }
 
 .contacts{
-    background-color: lightgrey;
-    padding: 50px;
+    background-color: thistle;
+    padding: 50px 0;
 }
 
 .contacts__image{
-  width: 150px;
-  height: 150px;
-  background-image: url("./https://resheto.net/images/mater/pozitivnye_kartinki_2.jpg");
-  background-size: contain;
-  background-repeat: no-repeat;
+  
 }
 
 .contacts__row{
     display: flex;
+    justify-content: space-between;
+}
+
+.contacts__body{
+    color: white;
+}
+
+.contacts__title{
+    font-size: 60px;
+}
+
+.contacts__list{
+
+}
+
+.contacts__list li{
+    font-size: 16px;
 }
 
 .footer{
