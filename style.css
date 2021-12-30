@@ -18,8 +18,25 @@
     flex: 1 1 auto;
 }
 
+.contacts{
+    background-color: lightgrey;
+    padding: 50px;
+}
+
+.contacts__image{
+  width: 150px;
+  height: 150px;
+  background-image: url("./https://resheto.net/images/mater/pozitivnye_kartinki_2.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.contacts__row{
+    display: flex;
+}
+
 .footer{
-    background-color: darkseagreen;
+    background-color: lightgreen;
 }
 
 .footer__row{
