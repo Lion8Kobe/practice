@@ -4,50 +4,134 @@
     box-sizing: border-box;
 }
 
+
+.header{
+    background-color: rgb(214, 228, 178);
+    width: 1180px;
+    margin: 0 auto;
+    /* border: 1px solid black; */
+    max-width: 1440px;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 40px;
+    color: black;
+    font-size: 18px;
+    letter-spacing: 0.3px;
+    list-style: none;
+    padding: 0 20px;
+    line-height: 50px;
+    flex-wrap: wrap;
+  }
+
+  .nav-item{
+      padding-left: 20px;
+  }
+
 .flex-container{
-    border: 10px solid red;
+    /* border: 1px solid black; */
     display: flex;
     flex-wrap: wrap;
     min-height: 100vh;
     width: 1180px;
     flex-direction: row;
-    /* justify-content: center; */
+    margin: 0px auto;
+    max-width: 1440px;
 }
 
 .flex-item{
-    padding: 30px 100px;
+    padding: 20px 100px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
-    /* text-align: center; */
     width: 50%;
-    /* flex: 1; */
+    border: 2px solid white;
 }
 
+.item-1{
+    background-color: rgb(214, 228, 178);
+    color: black;
+}
 
+.item-2{
+    background-color: gray;
+    color: white;
+}
+
+.item-3{
+    background-color: gray;
+    color: white;
+}
+
+.item-4{
+    background-color: rgb(214, 228, 178);
+    color: black;
+}
+
+.item-5{
+    background-color: rgb(214, 228, 178);
+    color: black;
+}
+
+.item-6{
+    background-color: gray;
+    color: white;
+}
+
+p{
+    margin: 0;
+}
+
+A{
+    text-decoration: none;
+    color: black;
+}
 
 
 
 .footer{
-    background-color: lightgreen;
+    background-color: rgb(214, 228, 178);
     width: 1180px;
+    margin: 0 auto;
+    border: 2px solid white;
+    max-width: 1440px;
 }
 
-.footer_row{
+.footer-item{
     display: flex;
     height: 65px;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
+    flex-wrap: wrap;
+    font-size: 36px;
+    justify-content: space-around;
 }
 
-footer_text{
-    color: dimgrey;
-    font-size: 14px;
-    letter-spacing: 0.3 px;
-}
+/* .part-1{
+    background-image: url(./rs_school_js.svg);
+    height: 60px;
+    width: 150px;
+    background-repeat: no-repeat;
+} */
 
-@media screen and (max-width: 650px){
+
+
+/* .footer-text{
+    color: black;
+    font-size: 18px;
+    letter-spacing: 0.3px;
+} */
+
+@media screen and (max-width: 768px){
     .flex-container{
         flex-direction: column;
+        width: 100%;
     }
 
 }
+
+html {
+    scroll-behavior: smooth; 
+  }
