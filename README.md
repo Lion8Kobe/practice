@@ -1,6 +1,5 @@
-# rsschool-cv
+[My markdown-page](https://Lion8Kobe.github.io/rsschool-cv/cv "My markdown-page")
 
-[My GitHub](https://Lion8Kobe.github.io/rsschool-cv/cv "GitHub")
+[My html-page](https://Lion8Kobe.github.io/rsschool-cv/ "html-page")
 
-https://Lion8Kobe.github.io/rsschool-cv/cv
-https://Lion8Kobe.github.io/rsschool-cv/
+[Deploy](https://zen-goodall-3c0244.netlify.app "My deploy html-page")
